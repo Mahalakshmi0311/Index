@@ -1,0 +1,1 @@
+"DevOps is a set of practices, cultural philosophies, and tools that combine software development (Dev) & IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery." 

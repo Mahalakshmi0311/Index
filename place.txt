@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "place:chennai, role: data engineering" 
+=======
+"place:trichy, role:devops" 
+>>>>>>> Devops
